@@ -1,0 +1,26 @@
+p {
+	color: red;
+	text-decoration: overline;
+}
+/*Задание 1*/
+p {
+	color: green;
+	text-decoration: line-through;
+}
+/*Задание 2*/
+p {
+	color: black;
+	font-family: Arial;
+	text-decoration: underline;
+}
+/*Задание 3*/
+p {
+	color: black;
+	font-family: 'Times New Roman', Times, serif;
+	text-decoration: none;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+/*Задание 4*/

@@ -1,0 +1,15 @@
+p {
+    font: 13/20px Times New Roman;
+}
+/*Задание 1*/
+p {
+	width: 300px;
+	color: red;
+    font: bold 40px Arial;
+}
+/*Задание 2*/
+p {
+	text-indent: 50px;
+    font: bold italic 40/60px Arial ;
+}
+/*Задание 3*/
